@@ -9,7 +9,7 @@ SKY CRED is a lightweight, single-page weather application built with semantic H
 ## Live app
 
 - **Repository:** https://github.com/karan22-hub-code/credsky
-- **Production URL:** _added after deployment_
+- **Production URL:** https://credsky-one.vercel.app
 
 ## What is included
 
