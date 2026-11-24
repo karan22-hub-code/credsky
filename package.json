@@ -1,0 +1,13 @@
+{
+  "name": "sky-cred",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SKY CRED — live weather with a simple, human verdict.",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
